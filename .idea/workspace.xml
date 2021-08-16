@@ -2,55 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46f72400-3ad8-4643-8b2b-40ae1ab5bb02" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapterFive/FivePointOneFive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapterFive/FivePointOneOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapterFive/FivePointOneSix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapterFive/FivePointTwoFour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapterFour/FourPointFive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapterFour/FourPointFourA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapterFour/FourPointOneEight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapterFour/FourPointOneNine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapterFour/FourPointOneSeven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapterFour/FourPointSeven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapterFour/FourPointSix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapterFour/FourPointThree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DietelExercise.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Semicolon.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DietelExercise/solution/AutomaticBike.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DietelExercise/solution/TwoPointOneFive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DietelExercise/solution/TwoPointOneFour.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DietelExercise/solution/TwoPointOneSeven.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DietelExercise/solution/TwoPointOneSix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DietelExercise/solution/TwoPointThirty.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DietelExercise/solution/TwoPointThreeOne.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DietelExercise/solution/TwoPointThreeThree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DietelExercise/solution/TwoPointThreeTwo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DietelExercise/solution/TwoPointTwoEight.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DietelExercise/solution/TwoPointTwoFive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DietelExercise/solution/TwoPointTwoFour.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DietelExercise/solution/TwoPointTwoNine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DietelExercise/solution/TwoPointTwoSix.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chapterSix/Nokia3310.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterSix/Nokia3310.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solution/AutomaticBike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClassWork/AutomaticBike.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solution/TestDriller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClassWork/TestDriller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solution/TwoPointOneFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterTwo/TwoPointOneFive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solution/TwoPointOneFour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterTwo/TwoPointOneFour.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solution/TwoPointOneSeven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterTwo/TwoPointOneSeven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solution/TwoPointOneSix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterTwo/TwoPointOneSix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solution/TwoPointThirty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterTwo/TwoPointThirty.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solution/TwoPointThreeOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterTwo/TwoPointThreeOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solution/TwoPointThreeThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterTwo/TwoPointThreeThree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solution/TwoPointThreeTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterTwo/TwoPointThreeTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solution/TwoPointTwoEight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterTwo/TwoPointTwoEight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solution/TwoPointTwoFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterTwo/TwoPointTwoFive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solution/TwoPointTwoFour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterTwo/TwoPointTwoFour.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solution/TwoPointTwoNine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterTwo/TwoPointTwoNine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solution/TwoPointTwoSix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterTwo/TwoPointTwoSix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/solution/TestDrillerApplicationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/solution/TestDrillerApplicationTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/chapterSix" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -214,7 +166,7 @@
       <workItem from="1628577326579" duration="26017000" />
       <workItem from="1628773619160" duration="10909000" />
       <workItem from="1628827976823" duration="13735000" />
-      <workItem from="1628925150055" duration="34558000" />
+      <workItem from="1628925150055" duration="34883000" />
     </task>
     <servers />
   </component>
