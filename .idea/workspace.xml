@@ -1,7 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46f72400-3ad8-4643-8b2b-40ae1ab5bb02" name="Changes" comment="" />
+    <list default="true" id="46f72400-3ad8-4643-8b2b-40ae1ab5bb02" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapterFive/FivePointOneFive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapterFive/FivePointOneOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapterFive/FivePointOneSix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapterFive/FivePointTwoFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapterFour/FourPointFive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapterFour/FourPointFourA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapterFour/FourPointOneEight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapterFour/FourPointOneNine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapterFour/FourPointOneSeven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapterFour/FourPointSeven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapterFour/FourPointSix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapterFour/FourPointThree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DietelExercise.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Semicolon.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DietelExercise/solution/AutomaticBike.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DietelExercise/solution/TwoPointOneFive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DietelExercise/solution/TwoPointOneFour.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DietelExercise/solution/TwoPointOneSeven.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DietelExercise/solution/TwoPointOneSix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DietelExercise/solution/TwoPointThirty.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DietelExercise/solution/TwoPointThreeOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DietelExercise/solution/TwoPointThreeThree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DietelExercise/solution/TwoPointThreeTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DietelExercise/solution/TwoPointTwoEight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DietelExercise/solution/TwoPointTwoFive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DietelExercise/solution/TwoPointTwoFour.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DietelExercise/solution/TwoPointTwoNine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DietelExercise/solution/TwoPointTwoSix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapterSix/Nokia3310.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterSix/Nokia3310.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solution/AutomaticBike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClassWork/AutomaticBike.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solution/TestDriller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClassWork/TestDriller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solution/TwoPointOneFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterTwo/TwoPointOneFive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solution/TwoPointOneFour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterTwo/TwoPointOneFour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solution/TwoPointOneSeven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterTwo/TwoPointOneSeven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solution/TwoPointOneSix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterTwo/TwoPointOneSix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solution/TwoPointThirty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterTwo/TwoPointThirty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solution/TwoPointThreeOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterTwo/TwoPointThreeOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solution/TwoPointThreeThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterTwo/TwoPointThreeThree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solution/TwoPointThreeTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterTwo/TwoPointThreeTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solution/TwoPointTwoEight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterTwo/TwoPointTwoEight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solution/TwoPointTwoFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterTwo/TwoPointTwoFive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solution/TwoPointTwoFour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterTwo/TwoPointTwoFour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solution/TwoPointTwoNine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterTwo/TwoPointTwoNine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solution/TwoPointTwoSix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterTwo/TwoPointTwoSix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/solution/TestDrillerApplicationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/solution/TestDrillerApplicationTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +66,15 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/chapter-two" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="PerforceDirect.Settings">
     <option name="ENABLED" value="false" />
@@ -35,11 +93,13 @@
     <property name="Repository.Attach.Sources" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -48,17 +108,26 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="chapterTwo" />
+      <recent name="ClassWork" />
+      <recent name="chapterFour" />
+      <recent name="chapterFive" />
+    </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="solution" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="solution" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.TwoPointOneFive">
-    <configuration name="TwoPointOneFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="solution.TwoPointOneFive" />
-      <module name="DietelExercise" />
+  <component name="RunManager" selected="Application.Nokia3310">
+    <configuration name="FourPointOneEight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapterFour.FourPointOneEight" />
+      <module name="Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="solution.*" />
+          <option name="PATTERN" value="chapterFour.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoPointTwoFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="solution.TwoPointTwoFive" />
-      <module name="DietelExercise" />
+    <configuration name="FourPointOneSeven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapterFour.FourPointOneSeven" />
+      <module name="Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="solution.*" />
+          <option name="PATTERN" value="chapterFour.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoPointTwoFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="solution.TwoPointTwoFour" />
-      <module name="DietelExercise" />
+    <configuration name="FourPointSix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapterFour.FourPointSix" />
+      <module name="Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="solution.*" />
+          <option name="PATTERN" value="chapterFour.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +161,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoPointTwoNine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="solution.TwoPointTwoNine" />
-      <module name="DietelExercise" />
+    <configuration name="Nokia3310" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapterSix.Nokia3310" />
+      <module name="Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="solution.*" />
+          <option name="PATTERN" value="chapterSix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,26 +174,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoPointTwoSix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="solution.TwoPointTwoSix" />
-      <module name="DietelExercise" />
+    <configuration name="chapterThree in Semicolon" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="solution.*" />
+          <option name="PATTERN" value="chapterThree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="chapterThree" />
+      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TwoPointOneFive" />
-        <item itemvalue="Application.TwoPointTwoSix" />
-        <item itemvalue="Application.TwoPointTwoNine" />
-        <item itemvalue="Application.TwoPointTwoFour" />
-        <item itemvalue="Application.TwoPointTwoFive" />
+        <item itemvalue="Application.Nokia3310" />
+        <item itemvalue="Application.FourPointOneEight" />
+        <item itemvalue="JUnit.chapterThree in Semicolon" />
+        <item itemvalue="Application.FourPointOneSeven" />
+        <item itemvalue="Application.FourPointSix" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +208,13 @@
       <updated>1628182762444</updated>
       <workItem from="1628182763813" duration="766000" />
       <workItem from="1628336525708" duration="3556000" />
-      <workItem from="1628361969564" duration="1808000" />
+      <workItem from="1628361969564" duration="6813000" />
+      <workItem from="1628511122233" duration="12438000" />
+      <workItem from="1628577164449" duration="111000" />
+      <workItem from="1628577326579" duration="26017000" />
+      <workItem from="1628773619160" duration="10909000" />
+      <workItem from="1628827976823" duration="13735000" />
+      <workItem from="1628925150055" duration="34558000" />
     </task>
     <servers />
   </component>
