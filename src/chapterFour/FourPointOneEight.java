@@ -12,9 +12,10 @@ public class FourPointOneEight {
         int accountNumber=0;
         int oldAccountBalance=0;
         int newAccountBalance=0;
-        int totalNumberOfItems=0;
-        int totalMonthlyCreditAllowance=5000;
-        int customers=0;
+        int totalPriceOfItems=0;
+        int allowedCreditLimit=0;
+        int balance = 0;
+        int customers = 0;
         String name = " ";
 
         Scanner userInput = new Scanner(System.in);
@@ -25,30 +26,34 @@ public class FourPointOneEight {
 
         System.out.println("Welcome "+name+" Please enter 5 digits of your choice : ");
         accountNumber = userInput.nextInt();
-        customers = accountNumber;
+        System.out.println("Hello "+ name+ " your account Number is: "+accountNumber);
+        System.out.println();
+        System.out.println("Please enter the Account Balance :" );
+        balance = userInput.nextInt();
+
+        if(balance >= 5000){
+            allowedCreditLimit = 3000;
+        }else
+        {
+            allowedCreditLimit = 500;
+        }
+        System.out.println("Congratulations your monthly Credit is! "+ allowedCreditLimit);
 
         System.out.println("Proceed to purchase");
-//        System.out.println("Please enter the total price of items you bought");
-//        totalNumberOfItems = userInput.nextInt();
+        System.out.println();
+       System.out.println("Please enter the total price of items you bought");
+        totalPriceOfItems = userInput.nextInt();
 
-        while(customers == accountNumber) {
+        newAccountBalance = balance + allowedCreditLimit - totalPriceOfItems;
 
-            System.out.println("Please enter the total price of items you bought");
-           totalNumberOfItems = userInput.nextInt();
-
-            System.out.println(" Enter Account Balance");
-            oldAccountBalance =userInput.nextInt();
+        System.out.println("Your new balance is : "+ newAccountBalance);
 
 
-
-            if(newAccountBalance <= totalMonthlyCreditAllowance){
-                System.out.println("Valid Purchase!");
-                newAccountBalance = oldAccountBalance + totalNumberOfItems - totalMonthlyCreditAllowance;
-            }else
-            {
-                System.out.println("Credit Limit Exceeded");
+            if (newAccountBalance > allowedCreditLimit) {
+                System.out.println("Valid purchase pls continue buying");
+            } else {
+                System.out.println("Invalid Transaction Credit limit exceeded.");
             }
-        }
 
 
     }
