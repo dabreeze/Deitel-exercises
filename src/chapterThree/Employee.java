@@ -1,47 +1,50 @@
-//package chapterThree;
-//import java.util.Scanner;
-//public class Employee {
-//    private String firstName;
-//    private String lastName;
-//    private double monthlySalary;
-//
-//
-//    public Employee(String firstName, String lastName, double monthlySalary) {
-//        firstName = " ";
-//        lastName = " ";
-//        monthlySalary = 0;
-//    }
-//
-//    public void setEmployeeName(String firstName, String lastName)
-//    {
-//        this.firstName = firstName;
-//        this.lastName = lastName;
-//
-//    }
-//    public void setEmployeeSalary(double monthlySalary)
-//    {
-//        System.out.println(firstName);
-//        System.out.println(lastName);
+package chapterThree;
+import java.util.Scanner;
+public class Employee {
+    private String firstName;
+    private String lastName;
+    private double monthlySalary;
+
+    public Employee(String firstName, String lastName, double monthlySalary) {
+        this.firstName = firstName;
+        this.lastName = lastName;
+        this.monthlySalary = monthlySalary;
+    }
+
+
+    public String getFirstName() {
+        return firstName;
+    }
+
+    public String getLastName() {
+        return lastName;
+    }
+
+    public double getMonthlySalary() {
+        return monthlySalary;
+    }
+
+    public void setFirstName(String firstName) {
+        this.firstName = firstName;
+    }
+
+    public void setLastName(String lastName) {
+        this.lastName = lastName;
+    }
+
+//    public void setMonthlySalary(double monthlySalary) {
 //        this.monthlySalary = monthlySalary;
 //    }
-//
-//
-//    public double getEmployeeSalary()
-//    {
-//        return monthlySalary;
-//    }
-//
-//    public static void main(String[] args) {
-//        Scanner user = new Scanner(System.in);
-////        Employee chika = new Employ, );
-//        setEmployeeName(firstName, lastName);
-//        System.out.println("firstName:")
-//        chika.firstName = user.nextLine();
-//        System.out.println("LastName:");
-//        chika.lastName = user.nextLine();
-//        System.out.println("monthly salary:");
-//        chika.monthlySalary = user.nextInt();
-//
-//
-//    }
-//}
+
+
+    public void setMonthlySalary(double monthlySalary) {
+        if(monthlySalary > 0)
+        {
+            this.monthlySalary = monthlySalary;
+
+        }
+        {
+            System.out.println("Monthly Salary Cannot be negative");
+        }
+    }
+}
