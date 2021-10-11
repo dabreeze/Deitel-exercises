@@ -9,54 +9,66 @@ import java.util.Scanner;
 
 public class FourPointTwoZero {
     public static void main(String[] args) {
-    String employee = " ";
-    double newPay = 0 ;
+        Scanner userInput = new Scanner(System.in);
+//        int user = userInput.nextInt();
+//
+
+        long weeklyBaseEarning = 200;
+        double weeklyEarnings;
+        int hourlyRate = 200/(5*8);
+        double extraHourlyRate = (200/(5*8)*1.5);
+        int quantityOfItemsSold = 0;
+        int pricePerEachItem = 0;
+        int TotalNumberOfHourSpentInAWeek = 0;
         int extraHours=0;
-        int weeklySalary = 0;
-    int numberOfHourSPent = 0;
-    int hourlyRate = 200;
-    double bonusHourPay = 0;
-        double thirdBonusHourPay = 0;
-        double secondBonusHourPay =0;
+        double hourlyBonusPay = 0;
+
+        weeklyEarnings = weeklyBaseEarning + (quantityOfItemsSold * pricePerEachItem * 0.09);
+        extraHours = TotalNumberOfHourSpentInAWeek - 40;
+        hourlyBonusPay = extraHourlyRate * extraHours;
+
         int employeeFirst = 0;
         int employeeSecond = 0;
         int employeeThird = 0;
+//        System.out.println("");
 
-        Scanner userInput = new Scanner(System.in);
-        System.out.println("");
-        for (int i = 0; i < +3; i++) {
+        while(true){
+            if(userInput.nextInt() > 0) {
 
 
-            weeklySalary = hourlyRate * numberOfHourSPent;
-            extraHours = numberOfHourSPent - 40;
-            newPay = extraHours / 0.5;
-            //System.out.println(extraHours);
 
-            if(numberOfHourSPent > 40){
-                System.out.println("Hours spent for Employee : "+ (i +1));
-                employeeFirst = userInput.nextInt();
+                    System.out.println("Hours spent for Employee 1: ");
+                    employeeFirst = userInput.nextInt();
 
-                bonusHourPay = newPay + weeklySalary;
 
-                System.out.println("Hours spent for Employee : "+ (i +1));
-                employeeSecond = userInput.nextInt();
-                secondBonusHourPay = newPay + weeklySalary;
+                    double newPay1 = weeklyEarnings + hourlyBonusPay * employeeFirst;
 
-                System.out.println("Hours spent for Employee : "+ (i +1));
-                employeeThird = userInput.nextInt();
-                thirdBonusHourPay = newPay + weeklySalary;
+                    System.out.println("Hours spent for Employee 2: ");
+                    employeeSecond = userInput.nextInt();
+                    double newpPay2 = weeklyBaseEarning + hourlyBonusPay * employeeSecond;
+
+                    System.out.println("Hours spent for Employee 3: ");
+                    employeeThird = userInput.nextInt();
+                    double newPay3 = weeklyBaseEarning + employeeThird;
+
+
+                System.out.println("employee 1");
+                System.out.println("Hours--- Pay-----Extra Time Pay---");
+                System.out.println();
+                System.out.println(employeeFirst + " ---- " + weeklyEarnings + " ---- " + newPay1);
+                System.out.println(employeeSecond + " ---- " + weeklyEarnings + " ---- " + newpPay2);
+                System.out.println(employeeThird+" ---- "+ weeklyEarnings+ " ---- "+newPay3);
+
+
+            }else System.out.println("End of program");
+            System.exit(-1);
+
+
 
 
 
             }
 
         }
-        System.out.println("employee 1");
-        System.out.println("Hours--- Pay-----Extra Time Pay---");
-        System.out.println();
-        System.out.println(employeeFirst+" ---- "+ weeklySalary+ " ---- "+bonusHourPay);
-        System.out.println(employeeSecond+" ---- "+ weeklySalary+ " ---- "+secondBonusHourPay);
-        System.out.println(employeeThird+" ---- "+ weeklySalary+ " ---- "+thirdBonusHourPay);
-    }
+   }
 
-}
